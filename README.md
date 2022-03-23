@@ -11,7 +11,7 @@
 <div>
   <h2>Sobre 🥇</h2>
   <li>Projeto desenvolvido para consolidar meus conhecimentos adquiridos em Desenvolvimento Web no curso GamaExperience X41.</li>
-  <li>Para acessar a página click <a href="https://weltondev.github.io/conversor-temperatura/">aqui 🟢</a> </li>
+  <li>Para acessar a página click <a href="https://weltondev.github.io/omma-js-eventos//">aqui 🟢</a> </li>
   </div>
 
 <div>
