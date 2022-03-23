@@ -1,4 +1,4 @@
-<h1 align="center"> Omma js Eventos🌡️</h1>
+<h1 align="center"> Omma Javascript Eventos 👨‍🎓</h1>
 <h2 align="center">Criando a função de criar, adicionar e exibir receitas com javascripts no site Omma Receitas 🔛</h2>
 <p align="center">
 <a href="https://www.instagram.com/welton.araujo2014/"><img src="https://img.shields.io/static/v1?color=blue&label=Instagram&logo=Instagram&logoColor=black&style=for-the-badge&message=Seguir"></a>
